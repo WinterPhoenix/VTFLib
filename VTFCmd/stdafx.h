@@ -17,8 +17,8 @@
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
  */
 
-#ifndef STDAFX_H
-#define STDAFX_H
+#ifndef CMD_STDAFX_H
+#define CMD_STDAFX_H
 
 #if _MSC_VER >= 1400
 #	define _CRT_SECURE_NO_WARNINGS
